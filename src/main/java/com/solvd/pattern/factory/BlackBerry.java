@@ -1,6 +1,6 @@
 package com.solvd.pattern.factory;
 
-public class BlackBerry implements MobileImpl {
+public class BlackBerry implements IMobile {
 
     @Override
     public void turnOn() {

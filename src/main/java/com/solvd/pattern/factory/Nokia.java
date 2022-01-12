@@ -1,6 +1,6 @@
 package com.solvd.pattern.factory;
 
-public class Nokia implements MobileImpl {
+public class Nokia implements IMobile {
 
     @Override
     public void turnOn() {

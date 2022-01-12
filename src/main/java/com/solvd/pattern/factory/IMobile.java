@@ -1,6 +1,6 @@
 package com.solvd.pattern.factory;
 
-public interface MobileImpl {
+public interface IMobile {
 
     void turnOn();
 
